@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [**Laravel**](https:://laravel.com) 11 Framework, **Forecasting**, **Time Series Analysis** and **Fullstack** Engineer
 - 💬 Ask me about ___Information Science___
 - 📫 How to reach me: [**@ptr.p.b**](https://linktr.ee/ptr.p.b)
+
 ![happybirthday](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjN3YzR4NmV4YjJuNzFrMHlmZ3QwMm14M21zeWxpNnp6YW5rMGg1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SO8a9geBGZin6Q8I1O/giphy.gif)
